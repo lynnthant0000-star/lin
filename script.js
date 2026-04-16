@@ -1,4 +1,6 @@
 function sayHello() {
   alert("Hello! mwahh love u very much 💐💐💐");
-<img src="photo.jpg" alt="">
+function showPhoto() {
+  document.getElementById("photo").style.display = "block";
 }
+
